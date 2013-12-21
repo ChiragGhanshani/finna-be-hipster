@@ -1,4 +1,4 @@
 finna-be-hipster
 ================
 
-Allows users to remotely send a recieve SMS messages, as well as other remote functionality for Android, iPhone, and Windows Phone 8
+Allows users to remotely send and recieve SMS messages, as well as other functions remotely. (for Android, iPhone, and Windows Phone 8)
